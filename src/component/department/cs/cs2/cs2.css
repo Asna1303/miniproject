@@ -1,0 +1,82 @@
+.contain{
+    width: 100%;
+   min-height: 650px;
+    background: rgb(161, 200, 200);
+}
+.company3{
+    width: 100px;
+    height: 20px;
+    color: white;
+    background: rgb(4, 95, 102);
+    margin: 40px;
+    float: left;
+    margin-left: 14%;
+}
+.company5{
+    width: 100px;
+    height: 20px;
+    color: white;
+    background: rgb(4, 95, 102);
+    margin: 40px;
+    float: left;
+    margin-left: 14%;
+}
+.company4{
+    width: 100px;
+    height: 20px;
+    color: white;
+    background: rgb(4, 95, 102);
+    margin: 40px;
+    float: left;
+    margin-left: 14%;
+}
+.company:hover{
+    background: white;
+    color: rgb(3, 112, 112);
+}
+.company1{
+    width: 100px;
+    height: 20px;
+    color: white;
+    background: rgb(4, 95, 102);
+    margin: 40px;
+    float: left;
+    margin-left: 14%;
+}
+.company2{
+    width: 100px;
+    height: 20px;
+    color: white;
+    background: rgb(4, 95, 102);
+    margin: 40px;
+    float: left;
+    margin-left: 14%;
+}
+.accdata{
+    width: 85%;
+    min-height: 650px;
+    background: rgb(227, 215, 215);
+    float: left;
+    color:rgb(1, 80, 80);
+    cursor: pointer;
+}
+.accdatatcs{
+    width: 81.7%;
+    min-height: 650px;
+    background: rgb(227, 215, 215);
+    float: left;
+    color:rgb(2, 11, 11);
+    cursor: pointer;
+    text-align: left;
+    padding-left: 50px;
+}
+.con1{
+    width:15%;
+    min-height:650px;
+    background:rgb(255, 255, 255);
+    float: left;
+}
+.con1 a{text-decoration: none;
+color: white;}
+
+.accdata h2{color:rgb(0, 93, 107) ;}

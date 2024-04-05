@@ -1,0 +1,39 @@
+.res{
+    margin: 0px;
+    color: white;
+    width: 100%;
+   min-height: 720PX;
+}
+.res cardx{ padding: 0px; min-height: 500PX;}
+.res h1{text-decoration: underline; color: rgb(208, 247, 246);
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    margin: 0px;
+text-shadow: 0cqmax;}
+.res input{
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+}
+.resume-template{
+    width: 100%;
+
+}
+.resume-template a{
+    color: aliceblue;
+}
+.resume-template{
+    color: aliceblue;
+}
+.res textarea{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cardx a{background: aliceblue;
+text-decoration: none;
+font-weight: 500;
+font-size: xx-large;
+color: rgb(0, 67, 62);
+width: 150px;
+margin-bottom: 10ch;
+font-family: 'Courier New', Courier, monospace;}

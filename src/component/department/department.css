@@ -1,0 +1,19 @@
+.dep{width: 330px;
+background-color: rgb(3, 111, 111); color:aliceblue;
+height: 205px;
+margin-top: 30px;
+float: left;
+margin-left: 115px;
+padding: 10px;
+border-radius: 0px 0px 0px 30px;
+
+}
+.dep a{
+cursor: pointer;    
+text-decoration: none;
+color: rgb(141, 208, 210);
+font-family: Georgia, 'Times New Roman', Times, serif;
+cursor: pointer;}
+.b1{
+    min-height: 750px;
+}

@@ -1,0 +1,60 @@
+.main{
+    width: 100%;
+    min-height: 700px;
+    background-color: aliceblue;
+}
+.hm{
+    width: 70%;
+    min-height: 400px;
+    background: radial-gradient(circle at 10% 20%, rgb(0, 95, 104) 0%, rgb(15, 156, 168) 90%);
+   margin-top: 50px;
+   margin-left: 15%;
+   padding: 30px;
+   
+   border-radius: 0px 0px 0px 50px;
+}
+.regi{
+    width: 100%;
+    min-height: 650px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(14, 58, 58);
+
+}
+.regi input{
+    background-color: rgb(3, 104, 104);
+    color:aliceblue;
+}
+
+.hm h1{
+    color:aliceblue;
+}
+.hm h2{
+    color: rgb(35, 38, 39);
+}
+.hm h3{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(255, 255, 255);
+}
+.displaydata ul{
+    width: 100%;
+    min-height: 160px;
+    margin:0px;
+    padding: 0px;
+}
+.uli ul li{
+    list-style: none;
+    width: 100%;
+    min-height: 130px;
+    cursor: pointer;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    background: none;
+}
+.uli ul{
+
+    margin: 0px;
+    margin-top: 10px;
+    padding: 0px;
+}

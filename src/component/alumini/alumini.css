@@ -1,0 +1,70 @@
+.inarea{width: 100%;
+min-height: 100px;
+}
+.inarea input{
+    margin-left:5px;
+    width: 210px;
+    float: left;
+    height: 50px;
+}
+.inarea button{
+    width: 140px;
+    height: 50px;
+    margin-top: 26px;
+    background-color: antiquewhite;
+    color: rgb(10, 57, 54);
+}
+.displaydata{
+    width: 100%;
+    min-height:100px;
+}
+.displaydata p{
+    width: 210px;
+    min-height: 50px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5px;
+}
+.displaydata button{
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 50px;
+    background-color: antiquewhite;
+    margin-left: 5px;
+    color: rgb(10, 57, 54);
+}
+.ulis a{
+    text-decoration: none;
+    color:rgb(63, 1, 1);
+    background-color: antiquewhite;
+    width: 200px;
+    height: 50px;
+    padding: 22px;
+    margin: 10px;
+}
+.displaydata ul{
+    width: 100%;
+    min-height: 160px;
+    margin:0px;
+    padding: 0px;
+}
+.ulis ul li{
+    list-style: none;
+    width: 100%;
+    min-height: 130px;
+    cursor: pointer;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    background: none;
+    margin-left: 8%;
+}
+.ulis ul{
+
+    margin: 0px;
+    margin-top: 10px;
+    padding: 0px;
+}
